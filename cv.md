@@ -10,26 +10,25 @@
 
 ### About me 
 
-I worked 5 years in videoproduction sphere.  
-In some moment I wanted to change my job and try myself in something new.\
-Сomputer programming seemed to me interesting sphere.  
-I have always enjoyed being involved in product creation(in my case - video), think and decide how will be better for consumer show the product  and  tell about it.\
-It gave me an idea to try front-end development. 
-I liked it! It is difficult, but very interesting.  
-A big World opened for me :) 
+I worked for five years in the video production sphere.
 
+At some moment, I decided to change my job and try myself in something new. I felt like programming seems to be quite a fascinating sphere.
+
+I enjoy being involved in product creation(in my experience - video). I like a lot to investigate how to present a product to the consumer. So, it's given me an idea to try frontend development. And I liked it. Sometimes it could be not easy, but still joyful.
+
+A `Big World` opened for me now :)
 
 ### Education
 
-**Higher education:** 
+#### Higher education:
 
-University: SPBGUP  
-Faculty: culture  
-Direction: advertising and PR
+**University:** SPBGUP  
+**Faculty:** culture  
+**Direction:** advertising and PR
 
-**Educational courses:**
+#### Educational courses:
 
-The Rolling Scopes: JS / front-end 
+**The Rolling Scopes:** JS / front-end 
 
 ### Skills 
 
@@ -41,15 +40,12 @@ The Rolling Scopes: JS / front-end
 
 ### Work experience 
 
+Coming soon...
+
 ### Code example 
 
 [GitHub](https://github.com/fqpf)
 
 ### English language skill
 
-Level: pre-intermediate
-
-
-
-
-
+Level: intermediate
