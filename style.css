@@ -1,17 +1,17 @@
 .page {
+    display: flex;
     width: 500px;
+    padding: 15px 30px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #e9e9e9;
-    padding: 15px 30px;
-    display: flex;
     font-family: "Open Sans", sans-serif;
+    background-color: #e9e9e9;
 }
 
 .sidebar {
-    padding-right: 20px;
-    width: 180px;
     flex-shrink: 0;
+    width: 180px;
+    padding-right: 20px;
 }
 
 header {
@@ -29,20 +29,20 @@ header {
 }
 
 .title_name {
-    font-weight: 600;
-    font-size: 20px;
-    text-transform: lowercase;
     margin: 8px 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: lowercase;
 }
 
 .subtitle {
-    text-transform: lowercase;
-    font-size: 12px;
-    margin-bottom: 10px;
-    margin-top: 5px;
-    background-color: #a9a9a959;
     width: 110px;
     padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    text-transform: lowercase;
+    background-color: #a9a9a959;
 }
 
 nav {
@@ -51,22 +51,22 @@ nav {
 }
 
 .title {
-    font-weight: bold;
-    text-transform: uppercase;
+    width: 170px;
+    padding: 5px;
     margin: 15px 0 15px;
     font-size: 10px;
-    background-color: #c7c7c7c4;
-    padding: 5px;
-    border: solid 1px #00000047;
-    width: 170px;
+    font-weight: bold;
     text-align: center;
+    text-transform: uppercase;
+    background-color: #c7c7c7c4;
+    border: solid 1px #00000047;
 }
 
 .text_contact {
     font-size: 10px;
-    text-transform: lowercase;
-    text-decoration: none;
     color: black;
+    text-decoration: none;
+    text-transform: lowercase;
 }
 
 .text_contact:hover {
@@ -82,9 +82,9 @@ nav {
 }
 
 .text_item {
+    width: 300px;
     font-size: 10px;
     line-height: 1.5;
-    width: 300px;
 }
 
 .english {
@@ -93,8 +93,8 @@ nav {
 }
 
 .title_education {
-    font-weight: bold;
     font-size: 11px;
+    font-weight: bold;
     text-transform: uppercase;
     background-color: rgb(211 211 218 / 66%);
 }
